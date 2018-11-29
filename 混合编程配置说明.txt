@@ -1,0 +1,5 @@
+1 配置属性 - C/C++ - 附加包含目录 - C:\python\include
+2 配置属性 - 链接器 - 附加库目录 C:\python\libs;C:\python\Lib
+3 python36.dll 放在 exe 的文件夹中
+4 C:\python\libs 下 python36拷贝为python36_d
+5 C:\python\Lib\site-packages\tensorflow\python\platform 下 flags.py 全部注释
